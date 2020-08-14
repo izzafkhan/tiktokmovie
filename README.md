@@ -1,6 +1,6 @@
 # tiktokmovie
 ## IMESSAGE ANY MOVIE SCRIPT TO YOUR FRIENDS ONE LINE AT A TIME - 3 DIFFERENT WAYS 🐝 
-
+## WORKS ON MAC ONLY
 1) texts1.py - Using PYNPUT ✨ 
   First download the library by typing `pip install py-imessage` into terminal
 2) texts2.py - Using PY_IMESSAGE ✨ 
